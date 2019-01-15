@@ -1,0 +1,5 @@
+Nom del fixer: LoremIpsum.txt
+Extensió: .txt
+Data: 31/10/2017 17:48:39
+Número de paraules: 
+Temàtica: 

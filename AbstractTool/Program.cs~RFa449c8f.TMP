@@ -1,0 +1,30 @@
+﻿using System;
+
+
+
+namespace AbstractTool
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /* PROGRAM */
+            //MethodTools.runAbstractTool();
+
+            // Default Data
+            //MethodTools.checkFiles("LoremIpsum.txt","BlockWords.txt");
+
+            // Data entered by user
+            // MethodTools.inputFilesName();
+
+            string hola = "comunicacion";
+
+            Console.WriteLine(hola.Substring(hola.Length-3,3));
+            Console.WriteLine(hola.Substring(0,hola.Length - 3));
+
+
+            Console.WriteLine("Prem Enter per a sortir...");
+            Console.ReadLine();
+        }
+    }
+}
